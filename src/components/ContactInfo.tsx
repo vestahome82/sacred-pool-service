@@ -12,7 +12,7 @@ export function ContactInfo() {
         </div>
         <div className="flex items-center">
           <Mail className="h-6 w-6 text-blue-600 mr-3" />
-          <span>contact@crystalclearpools.com</span>
+          <span>contact@csacredpoolservice.com</span>
         </div>
         <div className="flex items-center">
           <MapPin className="h-6 w-6 text-blue-600 mr-3" />

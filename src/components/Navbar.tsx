@@ -8,7 +8,7 @@ export default function Navbar() {
           <div className="flex items-center">
             {/* Replacing Droplets with the logo */}
             <img
-              src="/images/logo.png"
+              src="logo.png"
               alt="Sacred Pool Service Logo"
               className="h-12 w-12"
             />

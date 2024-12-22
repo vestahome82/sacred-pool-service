@@ -27,7 +27,7 @@ export default function About() {
           </div>
           <div className="relative h-96">
             <img
-              src="/images/pool-cleaning.jpg"
+              src="pool-cleaning.jpg"
               alt="Pool maintenance"
               className="rounded-lg object-cover w-full h-full"
             />

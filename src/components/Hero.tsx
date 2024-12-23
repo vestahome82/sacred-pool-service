@@ -3,7 +3,7 @@ import React from 'react';
 export default function Hero() {
   return (
     <section className="pt-24 pb-12 px-4 sm:px-6 lg:px-8" style={{
-      backgroundImage: 'url("pool.jpg")',
+      backgroundImage: 'url("/sacred-pool-service/images/pool.jpg")',
       backgroundSize: 'cover',
       backgroundPosition: 'center',
     }}>

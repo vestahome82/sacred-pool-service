@@ -6,15 +6,12 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
-            {/* Replacing Droplets with the logo */}
+            {/* Retaining only the logo */}
             <img
-              src="logo.png"
+              src="/sacred-pool-service/images/logo.png"
               alt="Sacred Pool Service Logo"
               className="h-12 w-12"
             />
-            <span className="ml-2 text-xl font-bold text-gray-900">
-              Sacred Pool Service
-            </span>
           </div>
           <div className="flex items-center space-x-8">
             <a href="#services" className="text-gray-700 hover:text-blue-600">

@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="flex items-center justify-center mb-4">
           <img
-            src="logo.png"
+            src="/sacred-pool-service/images/logo.png"
             alt="Sacred Pool Service Logo"
             className="h-12 w-12"
           />
